@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run Iris-Flower-Prediction-App-Machine-Learning.py
